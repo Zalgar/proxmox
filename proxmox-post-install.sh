@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env bash
 #update repositries to no subscription
 echo "Changing respository to no subscription and removing enterprise respository"
 sed -i "s/^deb/#deb/g" /etc/apt/sources.list.d/pve-enterprise.list
