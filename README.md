@@ -1,2 +1,2 @@
 # proxmox
-Private repo for proxmox related scripts
+Post install scripts to deal with common proxmox annoyances
